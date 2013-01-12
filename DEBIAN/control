@@ -1,0 +1,8 @@
+Package: xbmc-rbp-tomaz
+Version: 12.0rc1
+Maintainer: 'Tomaz'
+Architecture: armhf
+Depends: libsmbclient (>=3.6.6), libmicrohttpd10 (>=0.9.20-1), libtinyxml2.6.2 (>=2.6.2-1), libyajl2 (>=2.0.4-2), libssh-4 (>=0.5.3-1), libmysqlclient18 (>=5.5.28+dfsg-1), liblzo2-2 (>=2.06-1), libfribidi0 (>=0.19.2-3), libcdio13 (>=0.83), libcurl3-gnutls (>=7.26.0), sqlite3 (>=3.7.13), upower (>=0.9.17-1), liblockdev1 (>=1.0.3-1.5), libpcrecpp0 (>=1:8.30-5)
+Description: XBMC Media Center 12.0-rc1
+ Postinst script set autostart, and fix few known problems.
+
